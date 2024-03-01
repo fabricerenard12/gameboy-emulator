@@ -1,0 +1,2 @@
+﻿  CPU.cpp
+C:\Users\fabri\source\repos\GameBoyEmulator\GameBoyEmulator\InvalidOpcodeException.hpp(25): error C4716: 'InvalidOpcodeException::to_hex_string': must return a value
